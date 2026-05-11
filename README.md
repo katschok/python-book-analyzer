@@ -9,5 +9,5 @@ Programm starten: Einfach im Terminal die main.py aufrufen und den Pfad zum Buch
 Ergebnis: Das Programm zeigt die Wortanzahl und eine Liste der Buchstaben an, sortiert nach Häufigkeit.
 
 Befehl für das Terminal:
-
+```
 python3 main.py books/frankenstein.txt
