@@ -9,7 +9,6 @@ Programm starten: Öffne dein Terminal in diesem Ordner.
 Befehl eingeben: Ich habe die Datei frankenstein.txt schon hochgeladen, damit man das Programm direkt testen kann. Gib einfach das hier ein:
 ```
 python3 main.py frankenstein.txt
-
 ```
 
 
